@@ -9,7 +9,7 @@
 Does:
 
 1. If PSWindowsUpdate not installed - installes it
-2. Starts windows update servise
+2. Starts windows update service
 3. Execute update with reboot after installation, logging to $OutputLog
  #>
 
